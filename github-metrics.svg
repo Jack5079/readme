@@ -3544,7 +3544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ABarnob/svelte-remixicon</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3586,7 +3586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rob-balfre/svelte-select</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3628,7 +3628,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vaheqelyan/svelte-grid</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3670,7 +3670,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keylase/nvidia-patch</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3919,7 +3919,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="22.60675 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="22.6145 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3948,7 +3948,7 @@
                   
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7917 stars</div>
+                                <div class="text">Maintaining a repository with 7918 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3994,7 +3994,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.6291793828482 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.65752703037799 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4469,7 +4469,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27/08/2021, 05:18 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 27/08/2021, 08:31 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
